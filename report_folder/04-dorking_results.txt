@@ -1,0 +1,101 @@
+QUERY #1: site:grsu.by filetype:pdf 
+
+=> https://www.grsu.by/images/13158_5.pdf
+=> https://elib.grsu.by/katalog/448577pdf.pdf
+=> https://elib.grsu.by/katalog/163933-355848.pdf
+=> https://elib.grsu.by/katalog/134963-249078.pdf
+=> https://elib.grsu.by/katalog/161928-347165.pdf
+=> https://elib.grsu.by/katalog/168823-401735.pdf
+=> https://vesnik.grsu.by/vak_ru.pdf
+=> https://www.grsu.by/images/Documents/Practika/10227_0.pdf
+=> https://conf.grsu.by/nirs21vek/images/ru_recommendation_for_publishing.pdf
+=> https://elib.grsu.by/katalog/144437-285930.pdf%3Fd%3Dtrue
+
+QUERY #2: site:grsu.by filetype:xlsx 
+
+=> https://www.grsu.by/images/12003_2.xlsx
+=> /search%3Fq%3Dsite:grsu.by%2Bfiletype:xlsx%26sca_esv%3Dabf976e12d8dcb8e%26sca_upv%3D1%26hl%3Dbe%26gbv%3D1%26ie%3DUTF-8%26filter%3D0
+
+QUERY #3: site:grsu.by filetype:docx
+
+=> https://www.grsu.by/images/13320_3.docx
+=> /search%3Fq%3Dsite:grsu.by%2Bfiletype:docx%26sca_esv%3Dabf976e12d8dcb8e%26sca_upv%3D1%26hl%3Dbe%26gbv%3D1%26ie%3DUTF-8%26filter%3D0
+
+QUERY #4: site:grsu.by filetype:ppt 
+
+=> https://vk.grsu.by/documents/ot_wint.ppt
+=> /search%3Fq%3Dsite:grsu.by%2Bfiletype:ppt%26sca_esv%3Dabf976e12d8dcb8e%26sca_upv%3D1%26hl%3Dbe%26gbv%3D1%26ie%3DUTF-8%26filter%3D0
+
+QUERY #5: site:grsu.by filetype:doc
+
+=> https://vk.grsu.by/documents/zapretinternet.doc
+=> /search%3Fq%3Dsite:grsu.by%2Bfiletype:doc%26sca_esv%3Dabf976e12d8dcb8e%26sca_upv%3D1%26hl%3Dbe%26gbv%3D1%26ie%3DUTF-8%26filter%3D0
+
+QUERY #6: site:grsu.by filetype:pptx 
+
+=> https://vk.grsu.by/documents/corrupt_pr.pptx
+=> /search%3Fq%3Dsite:grsu.by%2Bfiletype:pptx%26sca_esv%3Dabf976e12d8dcb8e%26sca_upv%3D1%26hl%3Dbe%26gbv%3D1%26ie%3DUTF-8%26filter%3D0
+
+QUERY #7: site:grsu.by filetype:db
+
+=> NO RESULT FOUND
+
+QUERY #8: site:grsu.by filetype:accdb
+
+=> NO RESULT FOUND
+
+QUERY #9: site:grsu.by filetype:nsf 
+
+=> NO RESULT FOUND
+
+QUERY #10: site:grsu.by filetype:fp7
+
+=> NO RESULT FOUND
+
+QUERY #11: site:grsu.by filetype:mdf 
+
+=> NO RESULT FOUND
+
+QUERY #12: site:grsu.by filetype:sqlitedb 
+
+=> NO RESULT FOUND
+
+QUERY #13: grsu.by site:linkedin.com/in/
+
+=> https://by.linkedin.com/in/andrei-hetsevich-9b3a9a172
+=> https://by.linkedin.com/in/boris-assanovich-677b697a
+=> https://www.linkedin.com/in/%25D0%25B0%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B4%25D1%2580-%25D0%25B2%25D0%25BE%25D1%2580%25D0%25BE%25D0%25BD%25D1%2586%25D0%25BE%25D0%25B2-92a252134
+=> https://www.linkedin.com/in/%25D0%25BD%25D0%25B0%25D1%2582%25D0%25B0%25D0%25BB%25D1%258C%25D1%258F-%25D1%2581%25D0%25B5%25D0%25BC%25D0%25B5%25D0%25BD%25D1%2587%25D1%2583%25D0%25BA-4263408a
+=> https://by.linkedin.com/in/%25D0%25B0%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B4%25D1%2580-%25D1%2581%25D0%25B0%25D1%2587%25D1%2591%25D0%25BA-aa1b0195
+=> https://by.linkedin.com/in/%25D1%2580%25D0%25BE%25D0%25BC%25D0%25B0%25D0%25BD%25D1%2587%25D1%2583%25D0%25BA-%25D0%25B0%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B0-066a2689
+=> https://by.linkedin.com/in/svetlana-adamovich-44b88670
+=> https://by.linkedin.com/in/%25D0%25B5%25D0%25B2%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B9-%25D0%25BE%25D0%25B2%25D1%2587%25D0%25B8%25D0%25BD%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25B2-82181b74
+=> https://www.linkedin.com/in/%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B0-%25D0%25B0%25D0%25BD%25D1%2582%25D0%25BE%25D0%25BD%25D1%2587%25D0%25B8%25D0%25BA-060a7871%3Ftrk%3Dpeople-guest_profile-result-card_result-card_full-click
+=> https://by.linkedin.com/in/391a8594
+
+QUERY #14: site:grsu.by inurl:login | inurl:logon | inurl:sign-in | inurl:signin | inurl:portal
+
+=> https://www.google.com/preferences%3Fhl%3Dbe
+=> https://ipo.grsu.by/moodle/login/index.php
+=> http://ctf-study.mf.grsu.by/login
+=> https://www.grsu.by/glavnaya/univer/elektronnaya-doska-pocheta/item/29297-obrazovatelnyj-portal.html
+=> https://abitcard.grsu.by/sign-in
+=> https://ipo.grsu.by/moodle/login/index.php%3Flang%3Den
+=> https://school.grsu.by/login/forgot_password.php
+=> https://www.grsu.by/by/universitetu-81-by/item/35301-elektronnoe-izdanie-obrazovatelnyj-portal-prepodavatelyu-i-studentu-sozdano-v-grgu-imeni-yanki-kupaly.html
+=> https://www.grsu.by/component/k2/item/620-obrazovatelnyj-portal.html
+=> https://edu.grsu.by/login/forgot_password.php%3Flang%3Den
+=> https://edu.grsu.by/login/forgot_password.php
+
+QUERY #15: site:grsu.by inurl:/signup.aspx
+
+=> NO RESULT FOUND
+
+QUERY #16: site:grsu.by intitle:"index of" ".ssh" OR "ssh_config" OR "ssh_known_hosts" OR "authorized_keys" OR "id_rsa" OR "id_dsa"
+
+=> NO RESULT FOUND
+
+QUERY #17: site:grsu.by intitle:"index of" "nginx.conf"
+
+=> NO RESULT FOUND
+
